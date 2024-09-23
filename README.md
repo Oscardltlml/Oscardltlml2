@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><strong>Especialidades:</strong></td>
-    <td>Inteligencia Artificial, Análisis de Datos, Bases de Datos</td>
+    <td>Inteligencia Artificial, Análisis de Datos, Bases de Datos, Paginas web</td>
   </tr>
   <tr>
     <td><strong>Frameworks:</strong></td>
