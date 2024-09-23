@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola, soy Oscar Omar Aguilera de la Torre! 👋
 
-<!--
-**Oscardltlml/Oscardltlml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero en Computación | Universidad de Guadalajara 🎓
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería en Computación en la Universidad de Guadalajara. Mi pasión es el desarrollo de software, la inteligencia artificial y el análisis de datos. Aquí puedes encontrar algunos de mis proyectos y contribuciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mis habilidades:
+- **Lenguajes:** Python, C, C++, Java
+- **Especialidades:** Inteligencia Artificial, Análisis de Datos, Bases de Datos
+- **Frameworks:** Jupyter Notebook, Redes Neuronales
+
+---
+
+### 📁 Mis Repositorios:
+- [🔗 Ver mis repositorios](https://github.com/Oscardltlml/Portafolio-)
+
+---
+
+### 📫 Cómo contactarme:
+- **Correo:** oscar.aguileradlt12@gmail.com
+- **LinkedIn:** [OscarOmarAguilera](https://www.linkedin.com/in/oscar-omar-aguilera-de-la-torre-444754324)
+
+---
+
+"El conocimiento se comparte, no se guarda"
+
