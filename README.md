@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Soy estudiante de Ingeniería en Computación en la Universidad de Guadalajara, y también Full Stack Developer. Mi pasión es el desarrollo de software, la inteligencia artificial, el análisis de datos y el diseño de páginas web. Aquí puedes encontrar algunos de mis proyectos y contribuciones.
+  Soy  Ingeniero en Computación en la Universidad de Guadalajara, y también Full Stack Developer. Mi pasión es el desarrollo de software, la inteligencia artificial, el análisis de datos y el diseño de páginas web. Aquí puedes encontrar algunos de mis proyectos y contribuciones.
 </p>
 
 <hr>
